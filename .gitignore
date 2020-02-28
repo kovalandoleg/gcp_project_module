@@ -1,0 +1,5 @@
+# Don't track content of these folders
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.auto.tfvars
